@@ -16,5 +16,9 @@ function fizzBuzz(){
         output.push(count);
     }
 
-}}
-fizzBuzz()
+    count++;
+
+}
+console.log(output);
+}
+
